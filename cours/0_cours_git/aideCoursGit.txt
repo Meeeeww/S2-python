@@ -23,5 +23,5 @@ Slide 17: oui checkout sert pour deux choses: revenir au dernier commit, ou chan
 
 Slide 19: On n'aura probablement pas ce problème en python, mais on peut parler du fait que si on aura un langage compilé (C), on ne met pas les .o (idem quand on fait du latex), et on ne met que le code source.
 
-
+test hhhhhhhhhhhhhhhh
 
